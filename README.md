@@ -15,6 +15,11 @@ Webpages:
 ## Contributions
 All reasonable suggests will be incorporated in a timely manner. 
 
+Please submit edits to:
+    [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
+    [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
+    [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
+    
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
