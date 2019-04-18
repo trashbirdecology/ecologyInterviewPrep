@@ -1,7 +1,10 @@
-This is an open-source and active repository for sharing interview questions, tips, and resources for early career ecologists and biologists. It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to share their questions. Anonymous 
+## Intent
 
-Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  If there are other editable/open source question-sharing resources out there, please suggest an edit to this RMD or email me <sup>[*](#mailto)</sup>
+Are you looking for a job? [Me too](https://github.com/TrashBirdEcology/cv/blob/master/extendedCV/burnett_extendedResume.pdf)! I assumed there was an open resource out there similar to the [EcoEvo jobs](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790) and [postdoc](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0) Google sheets , but couldn't find anything.  
 
+This is an **open-source**  repository for interview questions, tips, and resources for early career ecologists and biologists. Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to questions they were asked. 
+
+**If other editable/open source question-sharing resources exist, please add here or email me <sup>[*](#mailto)</sup>**
 
 
 ## Other Resources
