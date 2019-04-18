@@ -25,4 +25,6 @@ If you wish to submit questions or tips anonymously, please either
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
 2. email me *jessicaleighburnett at gmail dot com*
 
+**If you would like me to add you as a collaborator with editing privliges, please email me**
+
 Enjoy!
