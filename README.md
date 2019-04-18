@@ -41,5 +41,9 @@ If you wish to submit questions or tips anonymously, please either
 
 Enjoy!
 
+## Requests
+If anyone is good with Jekyll or GitHub pages styles and would be willing to update the .io please contact me<sup>[*](#mailto)</sup>
+
+
 ## Etc.
-<a name="mailto">*</a>: jessicaleighburnett at gmail dot com
+<a name="mailto">*</a>: correspondence to jessicaleighburnett at gmail dot com
