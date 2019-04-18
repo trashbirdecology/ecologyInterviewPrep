@@ -4,7 +4,11 @@ Are you looking for a job? [Me too](https://github.com/TrashBirdEcology/cv/blob/
 
 This is an **open-source**  repository for interview questions, tips, and resources for early career ecologists and biologists. Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to questions they were asked. 
 
-
+## User Guide
+This repository currently comprises the following:
+1. [QUESTIONS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
+1. [TIPS & TRICKS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
+1. [OTHER RESOURCES](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
 
 
 ## Other Resources
