@@ -15,6 +15,9 @@ This repository comprises:
 ### Interview blogposts and webpages (static):
 1. [WildlifeSNPits (Stephanie Schuttler, 2014)](https://wildlifesnpits.wordpress.com/2014/01/01/what-to-expect-when-interviewing-for-ecology-and-conservation-jobs/). A static blog post containing a list of questions and a brief section on tips for interviewing in person and Skype.  
 1. [jobinterviewquestions.com](https://www.jobinterviewquestions.com/biologist-plant-animal). A generic questions database. It may be a database of the same questions with the word "biologist" inserted where applicable. 
+1. [Dynamic Ecology (Meghan Duffy, 2013)](https://dynamicecology.wordpress.com/tag/job-interviews/). Friday links, mostly for getting academic jobs. 
+1. [Marissa Baskett (last updated?)](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Advice). **Tons** of links for various aspects of the job search process for academics. Some links are 404, so not sure if this is still maintained.
+
 
 ### Job boards 
 1. [Wildlife & Fisheries, all levels (hosted by TAMU)](https://wfscjobs.tamu.edu/jobs/) 
