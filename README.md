@@ -34,9 +34,10 @@ This repository comprises:
 All reasonable suggests will be incorporated in a timely manner. 
 
 Please submit edits to:
-    [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
-    [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
-    [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
+    - [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
+    - [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
+    - [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
+    - [mistakes](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/mistakes.md)
     
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
