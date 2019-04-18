@@ -5,4 +5,4 @@ A place to share mistakes and horror stories about interviewing **from which som
 1. **Practice**. You're already here, so that's a good sign, I guess...
 1. **Learn to sell yourself and your achievements**. For some, this comes naturally, but for others it may not.  
 1. **Don't miss your appointment**. This should be obvious, but sh1t happens. Set alarms and duplicate calendar events and reminders. Just do it. 
-1.
+
