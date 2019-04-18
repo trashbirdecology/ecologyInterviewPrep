@@ -24,10 +24,10 @@ This repository comprises:
 1. [Quantitative postdocs/fellowships (editable with permission)](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0)
 1. [EcoEvoJobs.net, GSheet soon to be webpage(!) (editable)](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790)
 1. [Conservation Job Board](https://www.conservationjobboard.com/category/ecology-jobs)
-1. [LinkedIn - if your profile is UTD the suggestions are decent but no profile necessary to search](linkedin.com/jobs)
-1. [Indeed - not the greatest for research positions, imo](indeed.com)
-1. [ResearchGate - if your profile is UTD the suggestions are limited but decent](researchgate.net/jobs)
-1. [USAJobs- U.S. Government jobs, Ecology/Biology code == 0408](usajobs.gov)
+1. [LinkedIn](linkedin.com/jobs).  If your profile is UTD the suggestions are decent but no profile necessary to search
+1. [Indeed](indeed.com). Not the greatest for research positions, imo
+1. [ResearchGate](researchgate.net/jobs). if your profile is UTD the suggestions are limited but decent 
+1. [USAJobs](usajobs.gov). U.S. Government jobs. For Ecology/Biology jobs, search code `0408`
 
 
 ## Contributions
