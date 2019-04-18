@@ -1,5 +1,4 @@
-## About
-A repository for sharing interview questions, tips, and resources for early career ecologists and biologists. It is my goal to maintain this repository as an active and fluid source for those seeking interview prep help and for those recently interviewed to share their questions. Anonymous 
+This is an open-source and active repository for sharing interview questions, tips, and resources for early career ecologists and biologists. It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to share their questions. Anonymous 
 
 Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  If there are other editable/open source question-sharing resources out there, please suggest an edit to this RMD or email me (*jessicaleighburnett at gmail dot com*)
 
