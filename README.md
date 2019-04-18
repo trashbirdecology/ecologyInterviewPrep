@@ -9,7 +9,7 @@ This repository comprises:
 1. [QUESTIONS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
 1. [TIPS & TRICKS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
 1. [OTHER RESOURCES](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
-
+1. [LEARN FROM MY MISTAKES](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/mistakes.md)
 
 ## Other Resources
 ### Interview blogposts and webpages (static):
