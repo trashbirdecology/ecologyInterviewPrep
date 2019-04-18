@@ -1,6 +1,7 @@
 This is an open-source and active repository for sharing interview questions, tips, and resources for early career ecologists and biologists. It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to share their questions. Anonymous 
 
-Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  If there are other editable/open source question-sharing resources out there, please suggest an edit to this RMD or email me (*jessicaleighburnett at gmail dot com*)
+Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  If there are other editable/open source question-sharing resources out there, please suggest an edit to this RMD or email me <sup>[*](#mailto)</sup>
+
 
 
 ## Other Resources
@@ -23,8 +24,11 @@ Please submit edits to:
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
-2. email me *jessicaleighburnett at gmail dot com*
+2. email me <sup>[*](#mailto)</sup>
+
 
 **If you would like me to add you as a collaborator with editing privliges, please email me**
 
 Enjoy!
+
+<a name="mailto">*</a>: jessicaleighburnett at gmail dot com
