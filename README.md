@@ -1,8 +1,9 @@
-## Intent
+## About
+This is an **open-source**  repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see `How to Make Contributions` section below).
 
-Are you looking for a job? [Me too](https://github.com/TrashBirdEcology/cv/blob/master/extendedCV/burnett_extendedResume.pdf)! I assumed there was an open resource out there similar to the [EcoEvo jobs](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790) and [postdoc](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0) Google sheets , but couldn't find anything. **If other editable/open source question-sharing resources exist, please add here or email me <sup>[1](#mailto)</sup>**
+I have yet to come across an open resource out there (kind of like the [EcoEvo jobs](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790) or [EcoEvo postdoc opportunities](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0) sheets). If other editable/open source question-sharing resources exist, please add here or email me <sup>[1](#mailto)</sup>
 
-This is an **open-source**  repository for interview questions, tips, and resources for early career ecologists and biologists. Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to questions they were asked. 
+Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.  It is my goal to maintain this repository as a fluid resource for those seeking interview prep help and for those recently interviewed to questions they were asked. 
 
 ## User Guide
 This repository comprises:
@@ -18,7 +19,6 @@ This repository comprises:
 1. [Dynamic Ecology (Meghan Duffy, 2013)](https://dynamicecology.wordpress.com/tag/job-interviews/). Friday links, mostly for getting academic jobs. 
 1. [Marissa Baskett (last updated?)](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Advice). **Tons** of links for various aspects of the job search process for academics. Some links are 404, so not sure if this is still maintained.
 
-
 ### Job boards 
 1. [Wildlife & Fisheries, all levels (hosted by TAMU)](https://wfscjobs.tamu.edu/jobs/) 
 1. [Quantitative postdocs/fellowships (editable with permission)](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0)
@@ -29,9 +29,7 @@ This repository comprises:
 1. [ResearchGate](researchgate.net/jobs). if your profile is UTD the suggestions are limited but decent 
 1. [USAJobs](usajobs.gov). U.S. Government jobs. For Ecology/Biology jobs, search code `0408`
 
-
 ## How to Contribute
-
 1. Submit an Issue
 1. Make a pull request for:
 - [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
