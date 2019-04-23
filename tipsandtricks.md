@@ -1,1 +1,1 @@
-## User-submitted Tips and Tricks
+## Tips and Tricks
