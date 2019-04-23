@@ -30,15 +30,17 @@ This repository comprises:
 1. [USAJobs](usajobs.gov). U.S. Government jobs. For Ecology/Biology jobs, search code `0408`
 
 
-## Contributions
-All reasonable suggests will be incorporated in a timely manner. 
+## How to Contribute
 
-Please submit edits to:
+1. Submit an Issue
+1. Make a pull request for:
 - [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
 - [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
 - [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
 - [mistakes](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/mistakes.md)
-    
+1. Email me <sup>[1](#mailto)</sup>
+
+
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
@@ -47,10 +49,9 @@ If you wish to submit questions or tips anonymously, please either
 
 **If you would like me to add you as a collaborator with editing privliges, please email me<sup>[1](#mailto)</sup>
 
-Enjoy!
 
-## Requests
-If anyone is good with Jekyll or GitHub pages styles and would be willing to update the .io please contact me<sup>[1](#mailto)</sup>
+## Current Needs
+- If anyone is good with Jekyll or GitHub pages styles and would be willing to update the .io please contact me<sup>[1](#mailto)</sup>
 
 
 ## Etc.
