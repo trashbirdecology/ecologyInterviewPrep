@@ -64,6 +64,15 @@
 ## Questions for **your** Potential Employer (from you!)
 1. How will authorship is handled in your lab, or am I expected to work during weekends, or similar things. I'm just throwing some ideas your way.
 1. \[How\] does this team attempt to recruit and retain a divere workforce?
+1. What will a successful year look like? (This is especially important for post-doc positions where your contract may be re-newed after the first year. You may want to even shorten this to six months or whenever your initial review will be.)
+1. What are your expectations for publishing? (Number of pubs, timeline)<sup>[1](#myfootnote1)</sup>
+1. What is your mentoring style?<sup>[1](#myfootnote1)</sup>
+1. What is the work environment/lab like? (Will you be working independently? As part of a team?)<sup>[1](#myfootnote1)</sup>
+1. What does a typical day look like for this position?<sup>[1](#myfootnote1)</sup>
+1. For past employees of the same position that have performed well, what made their performance outstanding?<sup>[1](#myfootnote1)</sup>
+1. What reservations do you have about my fit for this position? <sup>[1](#myfootnote1)</sup>
+1. What is your timeline for getting back to candidates, and what are the next steps?<sup>[1](#myfootnote1)</sup>
+
 
 
 ## Sources and Footnotes
