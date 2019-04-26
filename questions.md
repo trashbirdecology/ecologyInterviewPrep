@@ -8,6 +8,7 @@
 1. **Why** do you want this position?
 1. Have you written grants? 
 1. What funding sources do you intend to seek whilst here?
+1. What is the future of your field?
 
 
 ### Long-term/career/goal oriented
@@ -51,15 +52,19 @@
 1. Have you worked with colleagues who do not desire their work to be reproducible and/or/ open? If so, how did you handle this situation?
 
 
-### **Conservation Ecology**
+### *Conservation Ecology*
 1. What do you see as the most important issue in conservation today? How would you address it? <sup>[1](#myfootnote1)</sup>
 1. Who is your conservation hero? <sup>[1](#myfootnote1)</sup>
 1. Do you see “conservation” and “preservation” differently? <sup>[1](#myfootnote1)</sup>
 
 
-### *Teaching*
+## Teaching
 1. What is your teaching philosophy?
 1. Describe your teaching experience.
+1. How do you deal with students struggling with 'maths anxiety'?
+1. How do you motivate students?
+1. How do you keep high-performing students motivated? 
+
 
 ## Questions for **your** Potential Employer (from you!)
 1. How will authorship is handled in your lab, or am I expected to work during weekends, or similar things. I'm just throwing some ideas your way.
@@ -72,7 +77,6 @@
 1. For past employees of the same position that have performed well, what made their performance outstanding?<sup>[1](#myfootnote1)</sup>
 1. What reservations do you have about my fit for this position? <sup>[1](#myfootnote1)</sup>
 1. What is your timeline for getting back to candidates, and what are the next steps?<sup>[1](#myfootnote1)</sup>
-
 
 
 ## Sources and Footnotes
