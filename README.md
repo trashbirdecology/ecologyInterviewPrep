@@ -49,7 +49,7 @@ If you wish to submit questions or tips anonymously, please either
 2. email me <sup>[1](#mailto)</sup>
 
 
-**If you would like me to add you as a collaborator with editing privliges, please email me<sup>[1](#mailto)</sup>
+**If you would like me to add you as a collaborator with editing privileges, please email me<sup>[1](#mailto)</sup>
 
 
 ## Current Needs
