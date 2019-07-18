@@ -35,12 +35,12 @@ This repository comprises:
 
 ## How to Contribute
 1. File an [Issue](/issues)
-1. Make a pull request for:
+1. Email me <sup>[1](#mailto)</sup>
+1. Make a pull request with edits to one of the following (preferred):
 - [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
 - [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
 - [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/tipsandtricks.md)
 - [mistakes](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/mistakes.md)
-1. Email me <sup>[1](#mailto)</sup>
 
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
