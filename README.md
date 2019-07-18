@@ -1,5 +1,5 @@
 ## About
-This is an **open-source**  repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see `How to Make Contributions` section below).
+This is an **open-source** (please contribute!)  repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see `How to Make Contributions` section below).
 
 I have yet to come across an open resource out there (kind of like the [EcoEvo jobs](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790) or [EcoEvo postdoc opportunities](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0) sheets). If other editable/open source question-sharing resources exist, please add here or email me <sup>[1](#mailto)</sup>
 
