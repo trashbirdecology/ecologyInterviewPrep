@@ -34,7 +34,7 @@ This repository comprises:
 
 
 ## How to Contribute
-1. Submit an Issue
+1. File an [Issue](/issues)
 1. Make a pull request for:
 - [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/questions.md)
 - [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/resources.md)
@@ -42,11 +42,10 @@ This repository comprises:
 - [mistakes](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/master/mistakes.md)
 1. Email me <sup>[1](#mailto)</sup>
 
-
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
-2. email me <sup>[1](#mailto)</sup>
+2. email me <sup>[1](#mailto)</sup> from a sketchy temporary email site (e.g. [this one](http://www.sendanonymousemail.net/))
 
 
 **If you would like me to add you as a collaborator with editing privileges, please email me<sup>[1](#mailto)</sup>
