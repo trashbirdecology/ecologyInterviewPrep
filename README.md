@@ -1,5 +1,5 @@
 ## About
-This is an **open-source** (please contribute!)  repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see `How to Make Contributions` section below).
+This is an open-source (please contribute!)  repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see `How to Make Contributions` section below).
 
 I have yet to come across an open resource out there (kind of like the [EcoEvo jobs](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790) or [EcoEvo postdoc opportunities](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0) sheets). If other editable/open source question-sharing resources exist, please add here or email me <sup>[1](#mailto)</sup>
 
@@ -22,7 +22,7 @@ This repository comprises:
 ### Job boards 
 1. [Wildlife & Fisheries, all levels (hosted by TAMU)](https://wfscjobs.tamu.edu/jobs/) 
 1. [Quantitative postdocs/fellowships (editable with permission)](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0)
-1. [EcoEvoJobs.net, GSheet soon to be webpage(!) (editable)](https://docs.google.com/spreadsheets/d/1z64-PTCydZIB_afaYXYUf4fVniFckHmGZwVgbeg4nNY/edit#gid=1915727790)
+1. [EcoEvoJobs 2019-20 (editable)](https://docs.google.com/spreadsheets/d/1yLm9LhXNKL0YTV6M1lHsNRvypnWI0RRi613s6z494FE/edit#gid=1022369394)
 1. [Conservation Job Board](https://www.conservationjobboard.com/category/ecology-jobs)
 1. [LinkedIn](linkedin.com/jobs).  If your profile is UTD the suggestions are decent but no profile necessary to search
 1. [Indeed](indeed.com). Not the greatest for research positions, imo
@@ -46,13 +46,6 @@ This repository comprises:
 If you wish to submit questions or tips anonymously, please either 
 1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
 2. email me <sup>[1](#mailto)</sup> from a sketchy temporary email site (e.g. [this one](http://www.sendanonymousemail.net/))
-
-
-**If you would like me to add you as a collaborator with editing privileges, please email me<sup>[1](#mailto)</sup>
-
-
-## Current Needs
-- If anyone is good with Jekyll or GitHub pages styles and would be willing to update the .io please contact me<sup>[1](#mailto)</sup>
 
 
 ## Etc.
