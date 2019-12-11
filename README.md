@@ -44,7 +44,7 @@ This repository comprises:
 
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
-1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) (however I am not familiar with either of the resources mentioned here, or 
+1. see [this website](https://livablesoftware.com/how-to-anonymize-github-activity/) for some ideas on anonymously contacting
 2. email me <sup>[1](#mailto)</sup> from a sketchy temporary email site (e.g. [this one](http://www.sendanonymousemail.net/))
 
 
