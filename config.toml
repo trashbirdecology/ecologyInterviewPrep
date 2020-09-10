@@ -17,10 +17,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/questions/"
 [[menu.main]]
     name = "Mistakes"
-    url = "mistakes"
+    url = "/mistakes/"
 [[menu.main]]
     name = "Resources"
-    url = "resources"
+    url = "/resources/"
 
 [params]
     description = "A super simple webpage to host some tips and resources for interview preps, with emphasis on natural resources."
