@@ -1,4 +1,4 @@
-baseurl = "http://trashbirdecology.github.io/ecologyinterviewprep"
+baseurl = "/"
 languageCode = "en-us"
 title = "Help! for Interview Prep in Ecology"
 theme = "hugo-lithium"
@@ -10,14 +10,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
     name = "Practice Questions"
     url = "/questions/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/trashbirdecology"
+    name = "Mistakes"
+    url = "mistakes"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/trashbirdecol"
+    name = "Resources"
+    url = "resources"
 
 [params]
     description = "A super simple webpage to host some tips and resources for interview preps, with emphasis on natural resources."

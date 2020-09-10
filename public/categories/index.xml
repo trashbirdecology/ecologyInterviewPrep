@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Help! for Interview Prep in Ecology</title>
-    <link>http://trashbirdecology.github.io/ecologyinterviewprep/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Help! for Interview Prep in Ecology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://trashbirdecology.github.io/ecologyinterviewprep/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

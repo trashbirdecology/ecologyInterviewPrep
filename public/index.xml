@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help! for Interview Prep in Ecology</title>
-    <link>http://trashbirdecology.github.io/ecologyinterviewprep/</link>
+    <link>/</link>
     <description>Recent content on Help! for Interview Prep in Ecology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="http://trashbirdecology.github.io/ecologyinterviewprep/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tips for Preparing CVs, Resumes</title>
-      <link>http://trashbirdecology.github.io/ecologyinterviewprep/cvsresumes/</link>
+      <link>/cvsresumes/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>http://trashbirdecology.github.io/ecologyinterviewprep/cvsresumes/</guid>
+      <guid>/cvsresumes/</guid>
       <description> Guidelines for Preparing a Successful CV. From this article in Conservation Biology  </description>
     </item>
     
     <item>
       <title>Additional Resources</title>
-      <link>http://trashbirdecology.github.io/ecologyinterviewprep/resources/</link>
+      <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://trashbirdecology.github.io/ecologyinterviewprep/resources/</guid>
+      <guid>/resources/</guid>
       <description> The Professor is In, Dr. Karen Kelsy  </description>
     </item>
     
     <item>
       <title>Misatkes</title>
-      <link>http://trashbirdecology.github.io/ecologyinterviewprep/mistakes/</link>
+      <link>/mistakes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://trashbirdecology.github.io/ecologyinterviewprep/mistakes/</guid>
+      <guid>/mistakes/</guid>
       <description>Learn from the mistakes of others A place to share mistakes and horror stories about interviewing from which someone might benefit. Not a place to gripe, however! Did you do something (or forget to do something) before or during your interview that could have been avoided? Share it here! Feel free to go into as much detail as you want, but please keep all parties anonymous and avoid griping or complaining.</description>
     </item>
     
     <item>
       <title>Practice Questions for the ECR Ecologist</title>
-      <link>http://trashbirdecology.github.io/ecologyinterviewprep/questions/</link>
+      <link>/questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://trashbirdecology.github.io/ecologyinterviewprep/questions/</guid>
+      <guid>/questions/</guid>
       <description>Interview Questions for the Early-career Ecologist Your [Research] Interests &amp;amp; Goals  If you had (e.g.) $1M to spend, how would you do allocate it (you cannot pay yourself!)? What skills will you bring to this position/lab/institute? Why are you a good fit? How can this position/lab/institute help you achieve your goals? Why do you want this position? Have you written grants? What funding sources do you intend to seek whilst here?</description>
     </item>
     
