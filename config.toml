@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "trashbirdecology.github.io/"
 languageCode = "en-us"
 title = "Help! for Interview Prep in Ecology"
 theme = "hugo-lithium"
