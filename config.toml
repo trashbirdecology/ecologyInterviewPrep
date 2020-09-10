@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://trashbirdecology.github.io/ecologyinterviewprep"
 languageCode = "en-us"
 title = "Help! for Interview Prep in Ecology"
 theme = "hugo-lithium"
@@ -10,8 +10,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Practice Questions"
+    url = "/questions/"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/trashbirdecology"
@@ -33,10 +33,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-

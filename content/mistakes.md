@@ -1,3 +1,8 @@
+---
+date: ""
+title: Misatkes
+---
+
 ## Learn from the mistakes of others
 
 A place to share mistakes and horror stories about interviewing **from which someone might benefit**. *Not* a place to gripe, however! Did you do something (or forget to do something) before or during your interview that could have been avoided? Share it here! Feel free to go into as much detail as you want, but please keep all parties anonymous and avoid griping or complaining.

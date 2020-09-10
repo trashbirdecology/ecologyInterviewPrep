@@ -1,3 +1,8 @@
+---
+date: ""
+title: Practice Questions for the ECR Ecologist
+---
+
 # Interview Questions for the Early-career Ecologist
 
 ## Your \[Research\] Interests & Goals
