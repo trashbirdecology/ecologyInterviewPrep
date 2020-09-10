@@ -7,10 +7,10 @@ Most of the resources I have come across are static, and not open to additions/e
 
 ## User Guide
 This repository comprises:
-1. [QUESTIONS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/questions.md)
-1. [TIPS & TRICKS](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/tipsandtricks.md)
-1. [OTHER RESOURCES](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/resources.md)
-1. [LEARN FROM ~~MY~~ OUR MISTAKES](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/mistakes.md)
+1. This readme....
+2. [Practice questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/content/questions.md)
+3. [Mistakse (oops!)](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/content/mistakes.md)
+
 
 ## Other Resources
 ### Interview blogposts and webpages (static):
@@ -36,11 +36,7 @@ This repository comprises:
 ## How to Contribute
 1. File an [Issue](/issues)
 1. Email me <sup>[1](#mailto)</sup>
-1. Make a pull request with edits to one of the following (preferred):
-- [questions](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/questions.md)
-- [other resources](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/resources.md)
-- [tips, tricks etc.](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/tipsandtricks.md)
-- [mistakes](https://github.com/TrashBirdEcology/ecologyInterviewPrep/blob/main/mistakes.md)
+1. Make a pull request
 
 ### Anonymous contributions
 If you wish to submit questions or tips anonymously, please either 
