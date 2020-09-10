@@ -1,9 +1,9 @@
 ---
 date: ""
-title: Practice Questions for the ECR Ecologist
+title: Practice Questions for the ECR Research Ecologist
 ---
 
-# Interview Questions for the Early-career Ecologist
+# Interview Questions for the Early-career Research Ecologist
 
 ## Your \[Research\] Interests & Goals
 1. If you had (e.g.) $1M to spend, how would you do allocate it (you cannot pay yourself!)?
