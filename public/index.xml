@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About This is an open-source (please contribute!) repository for interview questions, tips, and resources for early career ecologists and biologists. Any and all are encouraged to submit questions, resources, or tips (see How to Make Contributions section below).
+I have yet to come across an open resource out there (kind of like the EcoEvo jobs or EcoEvo postdoc opportunities sheets). If other editable/open source question-sharing resources exist, please add here or email me 1Most of the resources I have come across are static, and not open to additions/edits beyond the comments section.</description>
+    </item>
+    
+    <item>
       <title>Additional Resources</title>
       <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
