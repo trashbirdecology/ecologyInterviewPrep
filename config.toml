@@ -13,6 +13,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
+    name = "Contributions"
+    url = "http://www.github.com/trashbirdecology/ecologyinterviewprep"
+[[menu.main]]
     name = "Practice Questions"
     url = "/questions/"
 [[menu.main]]
